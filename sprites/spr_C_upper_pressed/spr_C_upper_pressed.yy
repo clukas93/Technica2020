@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 400,
-  "bbox_right": 431,
-  "bbox_top": 288,
-  "bbox_bottom": 383,
+  "bbox_left": 1155,
+  "bbox_right": 1543,
+  "bbox_top": 379,
+  "bbox_bottom": 902,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 500,
-  "height": 500,
+  "width": 1680,
+  "height": 1050,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"0c3a7b9d-8c5b-4b3e-90c6-27c149c040c0","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0c3a7b9d-8c5b-4b3e-90c6-27c149c040c0","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"LayerId":{"name":"d13c0ede-ae33-4275-af35-7dbbb71e60b0","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_C_upper_pressed","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"resourceVersion":"1.0","name":"0c3a7b9d-8c5b-4b3e-90c6-27c149c040c0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e9984d63-afe4-47db-ac66-08e84aa71bed","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e9984d63-afe4-47db-ac66-08e84aa71bed","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"LayerId":{"name":"b810a611-a296-42af-8b80-a1e4ea53ea09","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_C_upper_pressed","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"resourceVersion":"1.0","name":"e9984d63-afe4-47db-ac66-08e84aa71bed","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_C_upper_pressed","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"0de20038-0e62-4c4e-8fa4-ee49eaba0254","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0c3a7b9d-8c5b-4b3e-90c6-27c149c040c0","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"693fa0bb-e317-4683-95db-63e42333f3e3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e9984d63-afe4-47db-ac66-08e84aa71bed","path":"sprites/spr_C_upper_pressed/spr_C_upper_pressed.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d13c0ede-ae33-4275-af35-7dbbb71e60b0","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b810a611-a296-42af-8b80-a1e4ea53ea09","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "grp_spr_piano_keys",
