@@ -1,6 +1,6 @@
 // Menu element names
 menu[0] = "Free Play!";
-menu[1] = "Mimic";
+menu[1] = "Practice";
 menu[2] = "Exit";
 menu[3] = "mystery...";
 

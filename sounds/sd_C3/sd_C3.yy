@@ -13,8 +13,8 @@
   "soundFile": "sd_C3.mp3",
   "duration": 4.524208,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "sd_piano_keys",
+    "path": "folders/Sounds/sd_piano_keys.yy",
   },
   "resourceVersion": "1.0",
   "name": "sd_C3",
