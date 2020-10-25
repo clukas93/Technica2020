@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_green_alien",
-    "path": "sprites/spr_green_alien/spr_green_alien.yy",
+    "name": "spr_green_alien_F",
+    "path": "sprites/spr_green_alien_F/spr_green_alien_F.yy",
   },
   "solid": false,
   "visible": true,

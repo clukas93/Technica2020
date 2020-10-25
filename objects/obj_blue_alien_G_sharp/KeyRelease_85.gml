@@ -1,1 +1,1 @@
-sprite_index = spr_blue_alien;
+sprite_index = spr_blue_alien_G_sharp;
