@@ -41,7 +41,6 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_green_alien_B","path":"objects/obj_green_alien_B/obj_green_alien_B.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1182.0,"y":549.0,"resourceVersion":"1.0","name":"inst_6732B0F8","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_green_alien_C_upper","path":"objects/obj_green_alien_C_upper/obj_green_alien_C_upper.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1338.0,"y":530.0,"resourceVersion":"1.0","name":"inst_22823C8E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_press_tab","path":"objects/obj_press_tab/obj_press_tab.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":992.0,"resourceVersion":"1.0","name":"inst_439B357F","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_esc","path":"objects/obj_esc/obj_esc.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_45DE3C0A","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_piano_shell","path":"objects/obj_piano_shell/obj_piano_shell.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_1B709B4B","tags":[],"resourceType":"GMRInstance",},
@@ -80,7 +79,6 @@
     {"name":"inst_384205E4","path":"rooms/rm_piano/rm_piano.yy",},
     {"name":"inst_1B709B4B","path":"rooms/rm_piano/rm_piano.yy",},
     {"name":"inst_439B357F","path":"rooms/rm_piano/rm_piano.yy",},
-    {"name":"inst_45DE3C0A","path":"rooms/rm_piano/rm_piano.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
